@@ -12,3 +12,8 @@ div {
     align-items: center;
     justify-content: space-around;
   }
+  
+  body {
+    background-color: #1c87c9;
+  }
+  
