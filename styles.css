@@ -13,7 +13,9 @@
     height: auto;
   }
   }
-}
+  img:hover {
+    transform: scaleX(-1);
+  }
 .column {
   float: left;
   width: 33.33%;
