@@ -1,0 +1,89 @@
+[33mcommit b5d76b5943d85977b11d86e6df83f4ba8a21971d[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Tina <tturner@yahoo.com>
+Date:   Mon Nov 2 15:34:32 2020 -0500
+
+    added container wrapper
+
+[33mcommit 3d2afb9406cdff733a6c1909712d64cc88ce3a56[m
+Author: Tina <tturner@yahoo.com>
+Date:   Sat Oct 31 22:07:10 2020 -0400
+
+    added body background
+
+[33mcommit e5c98b0502e5559f75c3d244a1209c83c6235505[m
+Author: Tina <tturner@yahoo.com>
+Date:   Sat Oct 31 21:38:11 2020 -0400
+
+    added flex-align
+
+[33mcommit 8b8c716d87c35a8ce53ed2f6dd7187a89b1be186[m
+Author: Tina <tturner@yahoo.com>
+Date:   Sat Oct 31 00:30:06 2020 -0400
+
+    added second query
+
+[33mcommit 440a897e80ed2ab6c67a1834d6e79f6eacae74e1[m
+Author: Tina <tturner@yahoo.com>
+Date:   Thu Oct 29 19:59:45 2020 -0400
+
+    add query
+
+[33mcommit bb1b850f463d69f0c9c1e95c81c3e80a73ee4a1b[m
+Author: Tina <tturner@yahoo.com>
+Date:   Thu Oct 29 19:05:21 2020 -0400
+
+    moved a line a text under image
+
+[33mcommit da8864a375597a857b642ccb5884775c9b94d456[m
+Author: Tina <tturner@yahoo.com>
+Date:   Thu Oct 29 18:57:11 2020 -0400
+
+    added link to stylesheet
+
+[33mcommit b1d493293c7498d703ee15cdb23b932d998acf2b[m
+Author: Tina <tturner@yahoo.com>
+Date:   Thu Oct 29 18:45:19 2020 -0400
+
+    added div
+
+[33mcommit 62dd1ff4381db9963204d888499e2c6885aaef8b[m
+Author: Tina <tturner@yahoo.com>
+Date:   Thu Oct 29 15:55:42 2020 -0400
+
+    added footer
+
+[33mcommit ca25ad6d93daa296f23e4e89d5dcffd572101890[m
+Author: Tina <tturner@yahoo.com>
+Date:   Sun Oct 25 10:53:03 2020 -0400
+
+    added headings
+
+[33mcommit 55750bf76a52c92a17cb78689b202909bad94ab0[m
+Author: Tina <tturner@yahoo.com>
+Date:   Sat Oct 24 23:37:40 2020 -0400
+
+    added image
+
+[33mcommit 88c609bfd58b25925b545950a5d6b6f1ec9f3a40[m
+Author: Tina <tturner@yahoo.com>
+Date:   Sat Oct 24 22:13:30 2020 -0400
+
+    added text
+
+[33mcommit 2f61cb8ab9e11b799f1da8d2de7b2177acc037dc[m
+Author: Tina <tturner@yahoo.com>
+Date:   Fri Oct 23 11:22:54 2020 -0400
+
+    added content
+
+[33mcommit 58473d9b4fbd12e78ca3579e3ece900932eac610[m
+Author: Tina <tturner@yahoo.com>
+Date:   Thu Oct 22 19:34:03 2020 -0400
+
+    added hello world
+
+[33mcommit 1868aa3e56aaef93c98f55502e7ba46ad7f8158d[m
+Author: Tina <tturner@yahoo.com>
+Date:   Thu Oct 22 19:08:02 2020 -0400
+
+    My first commit
